@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Another World",
+  "base_artist": "One Direction",
+  "createdAt": "2026-04-02T02:00:50.186391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreaming Of Another World",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/01_Dreaming_Of_Another_World_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "Antony and the Johnsons",
+      "has_synced": true,
+      "path": "select/02_Another_World_Antony_and_the_Johnsons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/03_Another_World_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Another Country - Another World",
+      "artist": "The Crystals",
+      "has_synced": false,
+      "path": "select/04_Another_Country_-_Another_World_The_Crystals.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/05_Another_World_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another World - Reprise",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/06_Another_World_-_Reprise_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Living In Another World",
+      "artist": "Talk Talk",
+      "has_synced": true,
+      "path": "select/07_Living_In_Another_World_Talk_Talk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Theories from Another World",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/08_Theories_from_Another_World_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "Richard Hell & The Voidoids",
+      "has_synced": true,
+      "path": "select/09_Another_World_Richard_Hell_&_The_Voidoids.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "Poe",
+      "has_synced": true,
+      "path": "select/10_Another_World_Poe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another World Pt. 2",
+      "artist": "The Shaky Hands",
+      "has_synced": false,
+      "path": "select/11_Another_World_Pt._2_The_Shaky_Hands.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Living In Another World",
+      "artist": "Talk Talk",
+      "has_synced": true,
+      "path": "select/12_Living_In_Another_World_Talk_Talk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Built Another World",
+      "artist": "Wolf Parade",
+      "has_synced": false,
+      "path": "select/13_We_Built_Another_World_Wolf_Parade.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In the Presence of Another World",
+      "artist": "Blue Öyster Cult",
+      "has_synced": false,
+      "path": "select/14_In_the_Presence_of_Another_World_Blue_Öyster_Cult.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Living In Another World - Extended Remix",
+      "artist": "Talk Talk",
+      "has_synced": false,
+      "path": "select/15_Living_In_Another_World_-_Extended_Remix_Talk_Talk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Living in Another World (Extended Remix; 2003 Remaster)",
+      "artist": "Talk Talk",
+      "has_synced": false,
+      "path": "select/16_Living_in_Another_World_(Extended_Remix;_2003_Remaster)_Talk_Talk.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/17_Another_World_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Another World",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/18_Another_World_The_Vamps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Another World",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Another_World_One_Direction.txt"
+    }
+  ]
+}
